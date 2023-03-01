@@ -1,0 +1,9 @@
+body{
+    background: #2D2D2D;
+}
+.Form{
+    background-color: #FFFFFF;
+    display: grid;
+    justify-items: center;
+}
+

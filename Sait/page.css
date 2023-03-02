@@ -1,0 +1,33 @@
+body{
+    background: #1B1919;
+    color: #FFFFFF;
+}
+li{
+    list-style-type: none;
+}
+/*.c-icon {
+    --star-active: #fece3c;
+    --star-inactive: #6c6962;
+    fill: var(--star-inactive);
+}
+
+.c-icon.active {
+    fill: var(--star-active);
+} */
+.Header{
+    width: 100%;
+    display: grid;
+    justify-content: space-around;
+}
+.Searcher{
+    display: grid;
+    justify-content: space-around;
+
+}
+.Menu{
+    display: grid;
+    justify-content: space-around;
+}
+.Arktikle{
+    color: #6c6962;
+}
